@@ -19,3 +19,30 @@
 2. Step two
 
 ##Code
+
+##Inline code
+Use `GET /users`
+
+##Code block
+###Use triple backticks:
+
+```json
+{
+  "id": 1
+}
+```
+##Tables
+| Name | Type | Description |
+|------|------|------------|
+| id   | int  | User ID     |
+
+|name| type|Description|
+|----|---|---|
+| 001| int| 121|
+
+'''json
+{
+"id": 2
+}
+'''
+
